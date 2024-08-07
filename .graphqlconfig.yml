@@ -1,0 +1,12 @@
+projects:
+  drg:
+    schemaPath: src/graphql/schema.json
+    includes:
+      - drg_api_query
+    excludes:
+      - ./amplify/**
+    extensions:
+      amplify:
+        codeGenTarget: javascript
+        generatedFileName: ''
+        docsFilePath: .

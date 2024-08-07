@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drg-dev-9612c-authRole",
+      "UnauthRoleArn": "arn:aws:iam::449164402570:role/amplify-drg-dev-9612c-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::449164402570:role/amplify-drg-dev-9612c-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-drg-dev-9612c-deployment",
+      "UnauthRoleName": "amplify-drg-dev-9612c-unauthRole",
+      "StackName": "amplify-drg-dev-9612c",
+      "StackId": "arn:aws:cloudformation:us-east-1:449164402570:stack/amplify-drg-dev-9612c/2f479690-54d6-11ef-8643-0e03d1c30c91",
+      "AmplifyAppId": "d2917re88ok2ua"
+    },
+    "categories": {
+      "api": {
+        "drg": {}
+      }
+    }
+  }
+}
